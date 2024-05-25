@@ -9,7 +9,7 @@ I'm currently trying to learn Vue along with the tech stack of AWS and Vue toget
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [abby.05.reese@gmail.com](mailto:abby.05.reese@gmail.com)
-* 🧠  I'm learning Java
+* 🧠  I'm learning Vue
 * 🤝  I'm open to collaborating on software applications, data visualization, UI/UX web design.
 
 ### Skills
