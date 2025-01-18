@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at Northeastern University
 -------------------------------------
 
-I love working on web development, mostly using Adobe products, CSS, HTML, and JS. I am working to expand my knowledge in the field of CS.
-I'm currently trying to learn Vue along with the tech stack of AWS and Vue together.
+I love working on web development, mostly using Adobe products, CSS, HTML, and Node.js. I am working to mastern the MERN techstack.
+I'm currently trying to learn how to integrate MongoDB with my backend for my newest project, an interactive karaoke game application.
 
 * 🌍  I'm based in Boston
 * ✉️  You can contact me at [abby.05.reese@gmail.com](mailto:abby.05.reese@gmail.com)
-* 🧠  I'm learning Vue
+* 🧠  I'm learning MERN
 * 🤝  I'm open to collaborating on software applications, data visualization, UI/UX web design.
 
 ### Skills
