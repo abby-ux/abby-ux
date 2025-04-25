@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at Northeastern University
 -------------------------------------
 
-I love working on web development, mostly using Adobe products, CSS, HTML, and Node.js. I am working to mastern the MERN techstack.
+I love working on web development, mostly using Adobe products, CSS, HTML, and Node.js. I am working to master the MERN techstack.
 I'm currently trying to learn how to integrate MongoDB with my backend for my newest project, an interactive karaoke game application.
 
 * 🌍  I'm based in Boston
