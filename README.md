@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at Northeastern University
 -------------------------------------
 
-I love working on web development, mostly using Adobe products, CSS, HTML, and Node.js. I am working to master the MERN techstack.
-I'm currently trying to learn how to integrate MongoDB with my backend for my newest project, an interactive karaoke game application.
+I love working on web development and coding project in my free time mostly using Adobe products, CSS, HTML, and Node.js. I'm currently interested in DevOps, automation, and cloud related software engineering.
 
 * 🌍  I'm based in Boston
-* ✉️  You can contact me at [abby.05.reese@gmail.com](mailto:abby.05.reese@gmail.com)
-* 🧠  I'm learning MERN
-* 🤝  I'm open to collaborating on software applications, data visualization, UI/UX web design.
+* ✉️  Reach me [here](mailto:abby.05.reese@gmail.com)
+* 🧠  I'm learning C++
+* 🤝  I'm open to collaborating on software applications!
 
 ### Skills
 
