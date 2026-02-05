@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CS Student at Northeastern University
 -------------------------------------
 
-I love working on web development and coding project in my free time mostly using Adobe products, CSS, HTML, and Node.js. I'm currently interested in DevOps, automation, and cloud related software engineering.
+I love working on web development and coding projects in my free time mostly using Adobe products, and JavaScript or Python. I'm currently interested in DevOps, automation, and cloud related software engineering.
 
 * 🌍  I'm based in Boston
 * ✉️  Reach me [here](mailto:abby.05.reese@gmail.com)
